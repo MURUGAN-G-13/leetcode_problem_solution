@@ -4,6 +4,7 @@ class Solution {
         // resul[0] = celsius+273.15;
         // resul[1]=celsius * 1.80 + 32.00;
         // return resul;
-        return new double[]{celsius + 273.15,celsius * 1.80 + 32.00};
+        double[] res={celsius + 273.15,celsius * 1.80 + 32.00};
+        return res;
     }
 }
