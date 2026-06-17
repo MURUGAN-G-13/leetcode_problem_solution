@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-number-of-common-factors](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2427-number-of-common-factors) |
+| [2469-convert-the-temperature](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Enumeration
 |  |
