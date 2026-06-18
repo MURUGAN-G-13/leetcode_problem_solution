@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3894-traffic-signal-color](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3894-traffic-signal-color) |
 ## Enumeration
 |  |
 | ------- |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## String
+|  |
+| ------- |
+| [3894-traffic-signal-color](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3894-traffic-signal-color) |
+## Simulation
+|  |
+| ------- |
+| [3894-traffic-signal-color](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3894-traffic-signal-color) |
 <!---LeetCode Topics End-->
