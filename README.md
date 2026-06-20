@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2169-count-operations-to-obtain-zero](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2427-number-of-common-factors](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -38,5 +39,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [3894-traffic-signal-color](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3894-traffic-signal-color) |
 <!---LeetCode Topics End-->
