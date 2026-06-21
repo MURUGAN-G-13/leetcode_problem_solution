@@ -8,8 +8,7 @@ class Solution {
                 count++;
             }else if(remainder==2){
                 count++;
-            }
-           
+            }  
         }
         return count;
     }
