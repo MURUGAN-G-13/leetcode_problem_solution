@@ -4,7 +4,7 @@ class Solution {
         //         for(int ans:nums){
         //             sum=(sum+ans)%k;
         //         }return sum;
-        int sum = Arrays.stream(nums).sum();
-         return sum%k ;
+        int sum = (Arrays.stream(nums).sum())%k;
+         return sum ;
     }
 }
