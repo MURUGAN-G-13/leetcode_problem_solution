@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0507-perfect-number) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0319-bulb-switcher) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
