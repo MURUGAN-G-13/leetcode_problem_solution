@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0204-count-primes) |
+| [1920-build-array-from-permutation](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1920-build-array-from-permutation) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1920-build-array-from-permutation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [3894-traffic-signal-color](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3894-traffic-signal-color) |
 ## Brainteaser
