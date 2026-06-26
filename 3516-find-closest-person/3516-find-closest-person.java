@@ -1,5 +1,3 @@
-
-
 class Solution {
     public int findClosest(int x, int y, int z) {
     int d1 = x > z ? x - z : z - x;
