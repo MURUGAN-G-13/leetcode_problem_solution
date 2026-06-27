@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0204-count-primes) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1920-build-array-from-permutation](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1920-build-array-from-permutation) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0069-sqrtx) |
+## Prefix Sum
+|  |
+| ------- |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 <!---LeetCode Topics End-->
