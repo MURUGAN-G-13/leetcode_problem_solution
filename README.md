@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0319-bulb-switcher) |
