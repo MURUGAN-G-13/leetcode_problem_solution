@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0319-bulb-switcher) |
+| [0371-sum-of-two-integers](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2169-count-operations-to-obtain-zero) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3370-smallest-number-with-all-set-bits) |
 ## String
