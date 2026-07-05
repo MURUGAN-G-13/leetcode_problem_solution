@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1051-height-checker) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1572-matrix-diagonal-sum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1672-richest-customer-wealth) |
 | [1833-maximum-ice-cream-bars](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1833-maximum-ice-cream-bars) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
