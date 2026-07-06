@@ -59,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1920-build-array-from-permutation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [3360-stone-removal-game](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3360-stone-removal-game) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3894-traffic-signal-color](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3894-traffic-signal-color) |
 ## Brainteaser
 |  |
