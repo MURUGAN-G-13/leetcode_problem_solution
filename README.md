@@ -122,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
