@@ -8,6 +8,7 @@ class Solution {
                 sum+=nums[i];
                 count++;
             }
-        }return count!=0?sum/count:0;
-}
+        }if(count!=0){
+         return  sum/count;} return 0;
+}  
 }
