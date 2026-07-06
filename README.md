@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2427-number-of-common-factors](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2427-number-of-common-factors) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2769-find-the-maximum-achievable-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1920-build-array-from-permutation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3024-type-of-triangle) |
