@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Bit Manipulation
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Greedy
 |  |
 | ------- |
