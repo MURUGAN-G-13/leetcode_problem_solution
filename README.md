@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1920-build-array-from-permutation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0013-roman-to-integer) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3866-first-unique-even-element](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
