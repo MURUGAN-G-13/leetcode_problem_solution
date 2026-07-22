@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0013-roman-to-integer) |
 | [1108-defanging-an-ip-address](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1108-defanging-an-ip-address) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2315-count-asterisks](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2351-first-letter-to-appear-twice) |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
