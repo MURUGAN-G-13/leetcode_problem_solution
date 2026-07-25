@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3370-smallest-number-with-all-set-bits](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3516-find-closest-person) |
+| [3536-maximum-product-of-two-digits](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3894-traffic-signal-color) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2733-neither-minimum-nor-maximum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2733-neither-minimum-nor-maximum) |
 | [3024-type-of-triangle](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3024-type-of-triangle) |
+| [3536-maximum-product-of-two-digits](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
 | ------- |
