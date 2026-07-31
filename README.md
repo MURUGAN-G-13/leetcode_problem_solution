@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0001-two-sum) |
 | [0204-count-primes](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1051-height-checker) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0238-product-of-array-except-self) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Greedy
