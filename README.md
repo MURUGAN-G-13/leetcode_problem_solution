@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0027-remove-element) |
 | [0204-count-primes](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0238-product-of-array-except-self) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0027-remove-element) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Database
 |  |
