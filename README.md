@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0013-roman-to-integer) |
+| [0415-add-strings](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0415-add-strings) |
 | [0771-jewels-and-stones](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1920-build-array-from-permutation) |
 | [2169-count-operations-to-obtain-zero](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
