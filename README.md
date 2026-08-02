@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0027-remove-element) |
 | [0204-count-primes](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1051-height-checker) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0283-move-zeroes) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Database
 |  |
