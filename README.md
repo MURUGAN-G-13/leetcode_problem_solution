@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1539-kth-missing-positive-number](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1672-richest-customer-wealth) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0069-sqrtx) |
+| [1539-kth-missing-positive-number](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Prefix Sum
 |  |
