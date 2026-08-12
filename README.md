@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1672-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1816-truncate-sentence) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1920-build-array-from-permutation) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1108-defanging-an-ip-address) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1816-truncate-sentence](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1816-truncate-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2315-count-asterisks](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2351-first-letter-to-appear-twice) |
