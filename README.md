@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0303-range-sum-query-immutable) |
 | [0503-next-greater-element-ii](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0896-monotonic-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0303-range-sum-query-immutable) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3427-sum-of-variable-length-subarrays) |
 ## Greedy
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0509-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
