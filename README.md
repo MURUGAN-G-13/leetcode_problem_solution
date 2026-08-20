@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3024-type-of-triangle](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3024-type-of-triangle) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3427-sum-of-variable-length-subarrays) |
