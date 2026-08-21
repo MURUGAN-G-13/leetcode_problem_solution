@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3110-score-of-a-string](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3110-score-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
