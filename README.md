@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2351-first-letter-to-appear-twice) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2716-minimize-string-length](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2716-minimize-string-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3110-score-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3894-traffic-signal-color) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2716-minimize-string-length](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2716-minimize-string-length) |
 | [3866-first-unique-even-element](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
