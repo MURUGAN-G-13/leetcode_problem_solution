@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2733-neither-minimum-nor-maximum) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2315-count-asterisks](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2315-count-asterisks) |
 | [2351-first-letter-to-appear-twice](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2351-first-letter-to-appear-twice) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3110-score-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3894-traffic-signal-color) |
