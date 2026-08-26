@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2427-number-of-common-factors) |
+| [3200-maximum-height-of-a-triangle](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3200-maximum-height-of-a-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3024-type-of-triangle) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3200-maximum-height-of-a-triangle](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3200-maximum-height-of-a-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3467-transform-array-by-parity) |
