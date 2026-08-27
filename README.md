@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0303-range-sum-query-immutable) |
 | [0503-next-greater-element-ii](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0643-maximum-average-subarray-i) |
 | [0896-monotonic-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1051-height-checker) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2185-counting-words-with-a-given-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
