@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3110-score-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3894-traffic-signal-color) |
+| [3931-check-adjacent-digit-differences](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3931-check-adjacent-digit-differences) |
 ## Simulation
 |  |
 | ------- |
