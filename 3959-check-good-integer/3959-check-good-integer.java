@@ -8,10 +8,6 @@ class Solution {
             n=n/10;
         }
         int minus=srt-sum;
-        if(minus>=50){
-            return true;
-        }else{
-            return false;
-        }
+       return minus>=50?true:false;
     }
 }
