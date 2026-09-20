@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2716-minimize-string-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3931-check-adjacent-digit-differences) |
 ## Simulation
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3360-stone-removal-game](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3360-stone-removal-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3894-traffic-signal-color](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3894-traffic-signal-color) |
 | [3959-check-good-integer](https://github.com/MURUGAN-G-13/leetcode_problem_solution/tree/master/3959-check-good-integer) |
